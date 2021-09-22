@@ -18,7 +18,7 @@ This project is own by Wreaking#5515, based on discord aichatbot. Please conside
 
 > There are two options either you want to start with new project or import with github. Choose import with github instead of making new project [Screenshot](https://im4.ezgif.com/tmp/ezgif-4-86f23bf4e1eb.png)
 
->Click on import github and paste __Wreaking/Autochatbot__
+>Click on import github and paste __Wreaking/PublicChatbot__
 [Screenshot](https://im4.ezgif.com/tmp/ezgif-4-00ee95bf36f4.png)
 
 > After importing it, go to Secrets (Enviromental variables) and then in the Key Write __TOKEN__
@@ -33,7 +33,7 @@ __IF YOU ARE USING GLITCH.COM__
 
 > after creating it click on tool is shown on the left cornor of your screen. [Screenshot](https://im4.ezgif.com/tmp/ezgif-4-bcadfa4606ce.png)
 
-> Click on import and export and then click on import and paste __Wreaking/Autochatbot__. [Screenshot1](https://im4.ezgif.com/tmp/ezgif-4-56b4a1d51bab.png)
+> Click on import and export and then click on import and paste __Wreaking/PublicChatbot__. [Screenshot1](https://im4.ezgif.com/tmp/ezgif-4-56b4a1d51bab.png)
 and [Screenshot2](https://im4.ezgif.com/tmp/ezgif-4-90e4d97b7cca.png)
 
 > After importing it, make a .env file or the file will be exist and write TOKEN in the key box and paste your token in value box. [Screenshot](https://im4.ezgif.com/tmp/ezgif-4-9e8c0ae9d45f.png)
